@@ -16,3 +16,15 @@
 可以在这里看 [写了 1000 篇算法题解是什么体验？](https://mp.weixin.qq.com/s/QAJTL7hnAThP087RAoSYsg)
 
 本仓库按照题目顺序，每 100 道题目放在了一个文件夹里，方便读者查找。
+
+
+
+
+
+# 持续更新
+
+本仓库的地址是：https://github.com/fuxuemingzhu/Leetcode-Solution-All
+
+欢迎 Star ⭐️！
+
+![Alt](https://repobeats.axiom.co/api/embed/3cabd2e57781aa5b0e3f61fb141ebb420fc49f24.svg "Repobeats analytics image")
