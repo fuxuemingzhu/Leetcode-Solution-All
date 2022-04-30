@@ -1,12 +1,5 @@
 from collections import defaultdict
-from operator import index
 import os
-import requests
-import json
-
-from requests.packages import urllib3
-urllib3.disable_warnings()
-
 
 leetcodePath = "./"
 
