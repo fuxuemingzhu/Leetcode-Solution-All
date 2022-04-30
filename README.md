@@ -18,7 +18,17 @@
 本仓库按照题目顺序，每 100 道题目放在了一个文件夹里，方便读者查找。
 
 
-# 目录：
+
+# 持续更新
+
+本仓库的地址是：https://github.com/fuxuemingzhu/Leetcode-Solution-All
+
+欢迎 Star ⭐️！
+
+![Alt](https://repobeats.axiom.co/api/embed/3cabd2e57781aa5b0e3f61fb141ebb420fc49f24.svg "Repobeats analytics image")
+
+
+# 目录
 
 ## 1-99
 - [1. Two Sum 两数之和](1-99/1.%20Two%20Sum%20两数之和.md)
@@ -907,12 +917,3 @@
 ## 1700-1799
 - [1768. Merge Strings Alternately 交替合并字符串](1700-1799/1768.%20Merge%20Strings%20Alternately%20交替合并字符串.md)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box 移动所有球到每个盒子所需的最小操作数](1700-1799/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box%20移动所有球到每个盒子所需的最小操作数.md)
-
-
-# 持续更新
-
-本仓库的地址是：https://github.com/fuxuemingzhu/Leetcode-Solution-All
-
-欢迎 Star ⭐️！
-
-![Alt](https://repobeats.axiom.co/api/embed/3cabd2e57781aa5b0e3f61fb141ebb420fc49f24.svg "Repobeats analytics image")
