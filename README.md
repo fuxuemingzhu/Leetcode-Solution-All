@@ -873,6 +873,7 @@
 - [1222. Queens That Can Attack the King 可以攻击国王的皇后](1200-1299/1222.%20Queens%20That%20Can%20Attack%20the%20King%20可以攻击国王的皇后.md)
 
 ## 1300-1399
+- [1305. All Elements in Two Binary Search Trees 两棵二叉搜索树中的所有元素](1300-1399/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees%20两棵二叉搜索树中的所有元素.md)
 - [1399. Count Largest Group 统计最大组的数目](1300-1399/1399.%20Count%20Largest%20Group%20统计最大组的数目.md)
 
 ## 1400-1499
