@@ -918,3 +918,6 @@
 ## 1700-1799
 - [1768. Merge Strings Alternately 交替合并字符串](1700-1799/1768.%20Merge%20Strings%20Alternately%20交替合并字符串.md)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box 移动所有球到每个盒子所需的最小操作数](1700-1799/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box%20移动所有球到每个盒子所需的最小操作数.md)
+
+## 1800-1899
+- [1823. Find the Winner of the Circular Game 找出游戏的获胜者](1800-1899/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game%20找出游戏的获胜者.md)

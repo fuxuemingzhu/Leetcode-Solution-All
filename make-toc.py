@@ -3,6 +3,9 @@ import os
 
 leetcodePath = "./"
 
+with open(leetcodePath + "toc.md", "w") as f:
+    f.write("\n")
+
 solutions = os.listdir(leetcodePath)
 
 indexes = defaultdict(list)
